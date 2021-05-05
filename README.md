@@ -15,4 +15,4 @@ Previously:
 - Front End Developer @ [VeePee](https://veepee.com)
 - Full Stack & Mobile Developer @ [CookUnity](https://cookunity.com)
 - Front End Lead @ [Extendeal](https://extendeal.com)
-- Full Stack Developer @ [DMFusion](https://dmfusion.com]
+- Full Stack Developer @ [DMFusion](https://dmfusion.com)
