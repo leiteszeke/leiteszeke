@@ -6,7 +6,7 @@ I'm **Ezequiel Leites** a software engineer from Buenos Aires 🇦🇷, currentl
 
 I have a _"full-stack"_ background using PHP and NodeJS as main languages for backend and different libraries and frameworks for frontend as Angular, VueJS, React, Ionic, Vanilla, etc.
 
-My career is mostly on th development of mobile and web applications.
+My career is mostly on the development of mobile and web applications.
 
 Currently working as **Mobile Developer** at [NMBS-SNCB](https://belgiantrain.be).
 
