@@ -8,7 +8,7 @@ I have a _"full-stack"_ background using PHP and NodeJS as main languages for ba
 
 My career is mostly on the development of mobile and web applications.
 
-Currently working as **Mobile Developer** at [NMBS-SNCB](https://belgiantrain.be).
+Currently working as **Mobile Engineer** at [NMBS-SNCB](https://belgiantrain.be).
 
 Previously:
 - Mobile Tech Lead @ [Holded](https://holded.com)
